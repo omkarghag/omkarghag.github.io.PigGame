@@ -149,6 +149,8 @@ function init(){
   document.querySelector('#current-1').textContent = '0'
   document.querySelector('#dice-1').style.display = 'none'
   document.querySelector('#dice-2').style.display = 'none'
+  document.querySelector('#name-0').textContent = 'Player 1'
+  document.querySelector('#name-1').textContent = 'Player 2'
 }
 
 
